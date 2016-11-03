@@ -1,4 +1,4 @@
-# Title  
+# The Maze of Wonders  
 
 ---
 
