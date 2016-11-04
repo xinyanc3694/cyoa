@@ -7,5 +7,5 @@ The purpose of this project is to use what we learn about Git and Github to crea
 
 ## Start Your Adventure Right Now...
 Click [here](Beginning/intro.md) to begin the Choose Your Own Adventure!  
-Click [here]() to see the diagram for this Chhose Your Own Adventure!  
+Click [here](https://docs.google.com/drawings/d/1yUYPAdrK-mpxlmt1x7po5PGDkqoWQ5B_b4Lf5x2nZZw/edit) to see the diagram for this Chhose Your Own Adventure!  
 Made by [Kaily Sanchez](https://github.com/kailys6690) and [Xinyan Chen](https://github.com/xinyanc3694)  
