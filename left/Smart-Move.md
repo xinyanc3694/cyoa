@@ -1,6 +1,13 @@
-## Smart Move  
-You have ran away from the clown.  
-You soon see an exit to the maze!  
-You escape the maze safely. 
+# Left Path
+### Smart Move  
 
-[Click Here to go back to the start!](../beginning/intro.md)
+---
+
+**You have ran away from the clown.**  
+**You soon see an exit to the maze!**  
+**You escape the maze safely.**  
+
+---
+
+[Go Back To The Main Page](../README.md)  
+[Start Over](../beginning/intro.md)  
