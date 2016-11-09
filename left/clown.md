@@ -11,7 +11,8 @@
 Photo credit to [**neopri**](https://pixabay.com/en/runner-run-running-woman-runner-546896/)  
 
 * [Attack the clown!](../left/The-Clown-Fight.md)  
-
+![](attackclown.png)  
+Photo credit to [**pixabay**](https://www.pexels.com/photo/clown-creepy-grinning-facepaint-39242/)  
 
 ---
 
