@@ -7,6 +7,7 @@
 * [The **RIGHT** path which is a road with a strange light](../right/strman.md)  
 
 ![](paths.png)  
+Photo credit to [**valiunic**](https://pixabay.com/p-1345721/?no_redirect)
 
 ---
 
