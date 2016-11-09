@@ -7,7 +7,11 @@
 **What do you do?**    
 
 * [RUN FOR YOUR LIFE! ](../left/The-Clown-Chase.md)  
-* [Attack the clown!](../left/The-Clown-Fight.md)
+![](run.png)  
+Photo credit to [**neopri**](https://pixabay.com/en/runner-run-running-woman-runner-546896/)  
+
+* [Attack the clown!](../left/The-Clown-Fight.md)  
+
 
 ---
 
