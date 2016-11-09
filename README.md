@@ -8,5 +8,5 @@ For our project, we give you an adventure called "The Maze of Wonders!" In this 
 
 ## Start Your Adventure Right Now...
 Click [here](beginning/intro.md) to begin the Choose Your Own Adventure!  
-Click [here](https://docs.google.com/drawings/d/1yUYPAdrK-mpxlmt1x7po5PGDkqoWQ5B_b4Lf5x2nZZw/edit) to see the diagram for this Chhose Your Own Adventure!  
+Click [here](https://docs.google.com/drawings/d/1yUYPAdrK-mpxlmt1x7po5PGDkqoWQ5B_b4Lf5x2nZZw/edit) to see the diagram for this Choose Your Own Adventure!  
 Made by [Kaily Sanchez](https://github.com/kailys6690) and [Xinyan Chen](https://github.com/xinyanc3694)  

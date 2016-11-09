@@ -1,6 +1,12 @@
-## The Run Away!  
-You have ran away from the clown. You soon see an exit to the maze!  
-You escape the maze safely.  
+# Left Path
+### The Run Away!  
 
+---
 
-[Click Here to go back to the start!](../beginning/intro.md)
+**You have ran away from the clown. You soon see an exit to the maze!**  
+**You escape the maze safely.**  
+
+---
+
+[Go Back To The Main Page](../README.md)  
+[Start Over](../beginning/intro.md)  
