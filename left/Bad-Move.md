@@ -1,6 +1,9 @@
 # Left Path
 ### Bad Move  
 
+<<<<<<< HEAD
+[Click Here to go back to the start!](../beginning/intro.md) 
+=======
 ---
 
 **Bad move!**    
@@ -13,3 +16,4 @@ Photo credit to [**Wikimedia Commons**](https://commons.wikimedia.org/wiki/File:
 
 [Go Back To The Main Page](../README.md)  
 [Start Over](../beginning/intro.md)  
+>>>>>>> 9bc1429d4cd3d9b712147d4db66c2461ca3f8204
