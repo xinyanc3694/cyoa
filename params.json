@@ -1,0 +1,6 @@
+{
+  "name": "The Maze of Wonders",
+  "tagline": "It’s just the beGITning",
+  "body": "# The Maze of Wonders  \r\n\r\n---\r\n\r\n## Description  \r\nIn this project, we were assigned to create our own \"Adventure\" by using our prior knowledge of what we were taught on the last two subjects which was Git and GitHub. What we were recently taught was how to link files to other files in your Cloud9 account. In other words, when our adventure is loaded on GitHub(linked to cloud9),  we can give links on GitHub that will take the user to another page. This is also known as a file path.  \r\nFor our project, we give you an adventure called \"The Maze of Wonders!\" In this adventure, you have entered a maze that will take you to survival or death. The users are allow to choose the given choices that could determine the story plot given from the choices. Goodluck!\r\n\r\n## Start Your Adventure Right Now...\r\nClick [here](beginning/intro.md) to begin the Choose Your Own Adventure!  \r\nClick [here](https://docs.google.com/drawings/d/1yUYPAdrK-mpxlmt1x7po5PGDkqoWQ5B_b4Lf5x2nZZw/edit) to see the diagram for this Choose Your Own Adventure!  \r\nMade by [**Kaily Sanchez**](https://github.com/kailys6690) and [**Xinyan Chen**](https://github.com/xinyanc3694)  ",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
